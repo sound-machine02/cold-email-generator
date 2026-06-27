@@ -1,0 +1,71 @@
+Job Title: Web Development Service Provider for Company Website Design
+
+Company: Nike
+Project Overview
+
+Nike is seeking the services of an experienced software company to design and develop their corporate website. The goal is to create a modern, user-friendly, and responsive website that effectively represents the company's brand, showcases its products and services, and provides a seamless user experience for visitors.
+Scope of Work
+
+    Website Design and User Experience (UX):
+        Develop a clean, visually appealing, and intuitive design that aligns with the company’s brand identity.
+        Create wireframes and design mockups for approval, incorporating client feedback.
+        Ensure the website is mobile-friendly and provides an optimal viewing experience across all devices (desktop, tablet, mobile).
+
+    Front-End Development:
+        Implement designs using HTML, CSS, and JavaScript frameworks (such as React, Angular, or Vue).
+        Ensure that the website is fast-loading, optimized, and responsive across various screen sizes.
+        Integrate animations, transitions, and other interactive elements to enhance user engagement.
+
+    Back-End Development and Integration:
+        Develop a robust back end using suitable technologies (Node.js, Python, PHP, etc.) and set up a secure server environment.
+        Integrate with any required third-party services, such as payment gateways, CRM systems, or analytics tools.
+        Ensure the site is scalable to handle increased traffic in the future.
+
+    Content Management System (CMS):
+        Implement a CMS (like WordPress, Drupal, or a custom solution) to enable the client to easily update and manage content on their own.
+        Provide training and documentation for the CMS, empowering the client to independently update content after launch.
+
+    Search Engine Optimization (SEO):
+        Implement on-page SEO best practices to optimize the website for search engines.
+        Conduct keyword research to guide content structure, meta tags, and other SEO elements.
+        Ensure the website structure is crawlable and indexable by search engines.
+
+    Security and Compliance:
+        Implement security best practices, including HTTPS, data encryption, and secure authentication.
+        Ensure the website complies with relevant data privacy laws, such as GDPR.
+        Set up backup and recovery solutions to safeguard website data.
+
+    Testing and Quality Assurance:
+        Conduct thorough testing across different browsers, devices, and screen resolutions to ensure cross-platform compatibility.
+        Perform usability tests to ensure an intuitive user experience.
+        Address and resolve any bugs or issues before the official launch.
+
+    Launch and Post-Launch Support:
+        Deploy the website to the production server.
+        Monitor website performance, addressing any issues that arise during the initial period after launch.
+        Provide a post-launch support package to assist the client with any adjustments or troubleshooting needs.
+
+Required Expertise
+
+    UI/UX Design: Proven expertise in creating visually appealing and user-centric designs.
+    Front-End Technologies: HTML, CSS, JavaScript, with experience in frameworks like React, Angular, or Vue.
+    Back-End Development: Proficiency in server-side technologies such as Node.js, PHP, or Python.
+    CMS Implementation: Experience with content management systems like WordPress, Drupal, or custom CMS solutions.
+    SEO Best Practices: Knowledge of on-page SEO techniques and web accessibility standards.
+    Web Security: Understanding of security protocols and data privacy compliance (e.g., GDPR).
+    Quality Assurance and Testing: Ability to conduct cross-browser, device, and functional testing.
+
+Proposal Requirements
+
+To be considered for this project, please submit a proposal that includes the following:
+
+    Portfolio: Examples of similar web development projects you have completed, especially for corporate websites.
+    Project Approach: A high-level project plan, detailing your approach to each phase of development.
+    Timeline and Milestones: Estimated project timeline with key milestones.
+    Budget: Detailed breakdown of the project cost, including any additional services such as post-launch support.
+
+Contact Information
+
+Interested service providers are invited to submit their proposals by 30th December, 2024 to nike@nike.com. For any queries, please contact us at 8511190876.
+
+Nike looks forward to partnering with a skilled and dedicated web development team to bring our website vision to life!
