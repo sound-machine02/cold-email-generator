@@ -26,6 +26,16 @@ A cold email generator designed for service companies utilizing Groq, Langchain,
    streamlit run app/main.py
    ```
 
+## How It Works
+
+1. User enters a careers page URL.
+2. The application scrapes the page and extracts job descriptions.
+3. Portfolio projects are embedded and stored in ChromaDB.
+4. Relevant projects are retrieved through similarity search.
+5. LangChain orchestrates prompts and context.
+6. Llama 3.1 generates a personalized cold email.
+7. The email is displayed in the Streamlit UI.
+
 ## Project Structure
 
 ```
